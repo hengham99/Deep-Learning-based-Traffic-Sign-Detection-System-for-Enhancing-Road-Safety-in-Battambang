@@ -6,6 +6,7 @@ The main goal of this project is to create a smart system that can quickly and c
 
 The project will follow key steps: data collection, model training, and system deployment. First, data will be collected from different areas in Battambang, various lighting conditions and traffic sign types found throughout Battambang. The data will be prepared by resizing images, improving image quality, and labeling signs to help the model learn better.
 
-![Result Image](img.png)
+<img width="1266" height="822" alt="img" src="https://github.com/user-attachments/assets/63c9dd4e-bc57-473a-867e-758d58159c29" />
+
 
 
